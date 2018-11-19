@@ -1,7 +1,5 @@
 a{text-decoration:none; font-size:14pt;text-align:center;}
 img{ max-height:550px;}
-@font-face{font-family:Android;src:url(age/ru/2.ttf);}
-body{font-family:Android;} 
 ::-webkit-scrollbar-button {
 background-image:url('');
 background-repeat:no-repeat;

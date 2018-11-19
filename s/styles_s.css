@@ -1,6 +1,4 @@
-a{text-decoration:none;text-align:center;font-family:Android;color:black;font-size:25pt;}
-img{ max-height:550px;}
-@font-face{font-family:Android;src:url(../age/ru/2.ttf);}
+
 ::-webkit-scrollbar-button {
 background-image:url('');
 background-repeat:no-repeat;
