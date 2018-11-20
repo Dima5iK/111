@@ -1,4 +1,6 @@
-a{text-decoration:none; font-size:14pt;text-align:center;}
+
+@font-face{font-family:txt;src:url(../age/ru/Ubuntu-R.ttf);}
+a{text-decoration:none;font-family:txt; font-size:14pt;text-align:center;}
 img{ max-height:550px;}
 ::-webkit-scrollbar-button {
 background-image:url('');
