@@ -1,6 +1,7 @@
+@font-face{font-family:txt;src:url(../age/ru/Ubuntu-R.ttf);}
 img{max-height:350px;max-width:350px;}
-p{position:fixed; right:1%; top:0;z-index:1; background-color:white;font-size:18pt; color:black;text-decoration:none;font-weight:;}
-td{text-align:center; font-size:20pt; border-bottom:2px solid black;}
+p{position:fixed;font-family:txt; right:1%; top:0;z-index:1; background-color:white;font-size:18pt; color:black;text-decoration:none;font-weight:;}
+td{text-align:center; font-size:20pt; border-bottom:2px solid black;font-family:txt;}
 table{ border:0;} a{ color:inherit; text-decoration:inherit;}}
 ::-webkit-scrollbar-button {
 background-image:url('');
